@@ -1,2 +1,2 @@
 # CodeCraftHub
-Personalized learning platform for software developers
+Personalized AI learning platform for software developers
